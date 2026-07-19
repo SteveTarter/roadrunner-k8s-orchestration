@@ -1,4 +1,15 @@
+# ⚠️ ARCHIVED REPOSITORY
+
+> [!IMPORTANT]
+> This repository has been **archived** and is no longer actively maintained. 
+> All development has moved to the unified **[Roadrunner Monorepo](https://github.com/SteveTarter/roadrunner)**.
+>
+> The active codebase for this component is now located in the monorepo under the **[`orchestration/roadrunner-k8s-orchestration`](https://github.com/SteveTarter/roadrunner/tree/main/orchestration/roadrunner-k8s-orchestration)** directory.
+
+---
+
 # Roadrunner K8s Orchestration
+
 
 [![HCL](https://img.shields.io/badge/language-HCL-blueviolet)](https://developer.hashicorp.com/terraform/language)
 [![Terraform](https://img.shields.io/badge/Terraform-v1.0%2B-623CE4)](https://www.terraform.io/)
